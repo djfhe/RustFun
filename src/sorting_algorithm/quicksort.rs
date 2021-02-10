@@ -1,5 +1,4 @@
 pub(crate) mod quicksort {
-    use std::fmt::Debug;
 
     pub trait Quicksort: Ord {
         fn quicksort(&mut self) -> ();
