@@ -1,0 +1,2 @@
+# RustFun
+Learning Rust
